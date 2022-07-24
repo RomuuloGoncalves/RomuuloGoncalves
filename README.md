@@ -1,9 +1,13 @@
 Hi 👋 My name is Rômulo da Silva Gonçalves
 ==========================================
 
-* 🌍  I'm based in Tatuí-SP
+* 🌍 I'm based in Tatuí-SP
 * ✉️  You can contact me at [romulogoncalves13@mail.com](mailto:romulogoncalves13@mail.com)
-* 🧠  I'm learning Javascript, HTML, PHP, MYSQL
+* 🧠 I am a systems development student
+
+#### if you have any tips to help me, i am very interested in it
+
+
 
 ### Skills
 
