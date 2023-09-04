@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rômulo
 ==============================================================================================================================
 
-* 🌍  I'm based in I'm based in Tatuí-SP
+* 🌍  I'm based in Tatuí-SP
 * ✉️  You can contact me at [romulogoncalves13@gmail.com](mailto:romulogoncalves13@gmail.com)
-* 🧠  I'm learning I am a systems development studen
+* 🧠  I am a systems development student
 
 ### Skills
 
